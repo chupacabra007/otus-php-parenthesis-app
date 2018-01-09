@@ -15,4 +15,5 @@ Download [Dockerfile](https://github.com/chupacabra007/otus-php-parenthesis-app/
 # Usage
 
 $ docker build -t checker .
+
 $ docker run checker php cli.php '()(((()()'
