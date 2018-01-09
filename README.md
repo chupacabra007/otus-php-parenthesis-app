@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chupacabra007/otus-php-parenthesis-pkg.svg?branch=master)](https://travis-ci.org/chupacabra007/otus-php-parenthesis-pkg)
+[![Build Status](https://travis-ci.org/chupacabra007/otus-php-parenthesis-app.svg?branch=master)](https://travis-ci.org/chupacabra007/otus-php-parenthesis-app)
 
 [OTUS](http://otus.ru) PHP course homework.
 
