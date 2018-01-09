@@ -1,0 +1,22 @@
+{
+    "config": {
+        "vendor-dir": "src/vendor"  
+    },
+    "name": "chupacabra007/parenthesis",
+    "description": "Small PHP package used to check whether parentheses are balanced or not",
+    "license": "MIT",
+    "keywords": ["chupacabra007","parenthesis"],
+    "authors": [{
+        "name": "Volkov Viktor",
+        "email": "vv_volkov@mail.ru"
+    }],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.0.*"
+    },
+    "autoload":{
+        "psr-4": {
+            "chupacabra007\\parenthesis\\": "src"        
+        } 
+    }
+}

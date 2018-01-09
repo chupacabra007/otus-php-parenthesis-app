@@ -1,0 +1,9 @@
+language: php
+php:
+    - 7.0
+sudo: false
+before_install:
+    - composer install
+script: ./src/vendor/bin/phpunit -c ./tests
+    
+

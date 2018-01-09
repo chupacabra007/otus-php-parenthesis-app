@@ -1,0 +1,23 @@
+{
+    "config": {
+        "vendor-dir": "src/Framework/vendor"  
+    },
+    "name": "chupacabra007/parenthesis-app",
+    "description": "Small PHP console application used to check whether parentheses are balanced or not",
+    "license": "MIT",
+    "authors": [{
+        "name": "Volkov Viktor",
+        "email": "vv_volkov@mail.ru"
+    }],
+    "require": {
+        "chupacabra007/parenthesis": "1.0.*"    
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.0.*"
+    },
+    "autoload":{
+        "psr-4": {
+            "chupacabra007\\parenthesis\\": "src"        
+        } 
+    }
+}
