@@ -3,7 +3,7 @@
         "vendor-dir": "src/Framework/vendor"  
     },
     "name": "chupacabra007/parenthesis-app",
-    "description": "Small PHP console application used to check whether parentheses are balanced or not",
+    "description": "Small PHP application used to check whether parentheses are balanced or not",
     "license": "MIT",
     "authors": [{
         "name": "Volkov Viktor",
